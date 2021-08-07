@@ -512,3 +512,7 @@ input:focus {
     transform: rotate(450deg);
   }
 }
+
+#name-link {
+  font-size: large;
+}

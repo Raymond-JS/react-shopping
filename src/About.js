@@ -6,7 +6,7 @@ export default function About() {
       <div>
         <h1>About </h1>
         <p>
-          This project demonstrates React proficiency with the following:
+          This final project by <a id="name-link" href="https://github.com/Raymond-JS" target="_blank" rel="noreferrer">Ray</a> demonstrates React proficiency with the following:
           <br />
           <ul>
             <li>Props</li>

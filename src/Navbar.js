@@ -20,7 +20,7 @@ export default function Navbar(props) {
         </li>
         <li className="nav-item">
           <NavLink exact activeClassName="active" to="/about">
-            About us
+            About 
           </NavLink>
         </li>
         <li className="nav-item">
