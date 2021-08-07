@@ -7,7 +7,7 @@ export default function Home() {
       <div>
         <h1>Online shopping simplified</h1>
         <p>
-          Grocery shopping with React and Stripe demo. Enjoy your stress free shopping experience and click below ⬇️
+          Grocery shopping demo built with React  ⬇️
         </p>
         <Link to="/products" className="btn btn-default">
           Start shopping
